@@ -1,0 +1,39 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas bin y obj
+bin/
+obj/
+
+# Archivos de depuración
+*.pdb
+*.ilk
+*.log
+*.tlog
+
+# Paquetes NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Archivos de publicación
+*.publishsettings
+*.deploy.json
+*.dll
+*.exe
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Mac / Linux
+.DS_Store
+*.DS_Store
+
+# Otros archivos generados
+*.cache
+*.dbmdl
